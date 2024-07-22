@@ -11,5 +11,5 @@ Embedded in neuroscience is the concept that brain functioning is underpinned by
 This project relies on external libraries:
 - BCT toolbox: to extract measures on brain networks (https://sites.google.com/site/bctnet/).
 - To plot communities on the human neocortex: https://github.com/faskowit/parc_plotter.
-- To pick nice colors: https://it.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps.
+- To use nice colors: https://it.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps.
 - other nice colors: https://it.mathworks.com/matlabcentral/fileexchange/68546-crameri-perceptually-uniform-scientific-colormaps.
