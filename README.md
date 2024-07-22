@@ -8,5 +8,6 @@ Embedded in neuroscience is the concept that brain functioning is underpinned by
 
 ## Libraries
 
-This project relies on external library:
+This project relies on external libraries:
 - BCT toolbox: to extract measures on brain networks (https://sites.google.com/site/bctnet/).
+- To plot communities on the human neocortex: https://github.com/faskowit/parc_plotter
