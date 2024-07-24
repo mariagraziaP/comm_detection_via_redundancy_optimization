@@ -1,6 +1,6 @@
 # comm_detection_via_redundancy_optimization
 
-Here you will find MATLAB code to perform community detection in human brain networks via redundancy maximization. Results are reported in the paper "Leveraging multivariate information for community detection in functional brain networks"
+Here you will find MATLAB code to perform community detection in human brain networks via redundancy maximization. Results are reported in the paper "Leveraging multivariate information for community detection in functional brain networks" (URL: https://www.biorxiv.org/content/10.1101/2024.07.22.604675v1)
 
 ## Paper abstract
 
